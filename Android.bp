@@ -1,0 +1,5 @@
+cc_library_headers {
+    name: "llibittnotify_headers",
+    export_include_dirs: ["include"],
+    vendor_available: true,
+}
